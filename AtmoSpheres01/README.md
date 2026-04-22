@@ -1,0 +1,1 @@
+AtmoSpheres01 is the first wearable work of art live reading and displaying black carbon (soot) fine particulate matter air pollution. This folder contains firmware and hardware build notes as well as documentation of the object and its use. 
